@@ -1,55 +1,66 @@
 ## Whitelist
 
-# --- CONNECTIVITY & SYSTEM ---
+# --- SYSTEM & BASIS ---
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
 msftncsi.com
 www.msftconnecttest.com
 ipv6.msftncsi.com
 dns.msftncsi.com
-captive.apple.com
 2.android.pool.ntp.org
 api.ipify.org
+captive.apple.com
 
-# --- MICROSOFT & OFFICE ESSENTIALS ---
-slscr.update.microsoft.com
-v10.vortex-win.data.microsoft.com
-settings-win.data.microsoft.com
-ctldl.windowsupdate.com
-officeclient.microsoft.com
-outlook.office365.com
-1drv.com
-
-# --- SHOPPING & MEDIA (Amazon, eBay, Netflix) ---
-images-na.ssl-images-amazon.com
-m.media-amazon.com
-api.ebay.com
-i.ebayimg.com
-ae01.alicdn.com
+# --- MEDIA & STREAMING ---
 nflxvideo.net
 nflxext.com
-
-# --- TECHNIK & GAMING (Plex, Xbox, Sonarr, Nvidia) ---
+api-global.netflix.com
+appboot.netflix.com
+secure.netflix.com
+upgrade.scdn.com
+spclient.wg.spotify.com
 dashboard.plex.tv
-meta.plex.tv
 my.plexapp.com
-attestation.xboxlive.com
-cert.mgt.xboxlive.com
-licensing.xboxlive.com
-xsts.auth.xboxlive.com
-download.sonarr.tv
-skyhook.sonarr.tv
+meta.plex.tv
+tvdb2.plex.tv
 themoviedb.com
 thetvdb.com
+
+# --- SHOPPING & BILDER ---
+images-na.ssl-images-amazon.com
+m.media-amazon.com
+device-metrics-us.amazon.com
+unagi-na.amazon.com
+ae01.alicdn.com
+i.ebayimg.com
+api.ebay.com
+shop.rewe-static.de
+
+# --- TECHNIK & UPDATES ---
 ota-downloads.nvidia.com
 gfwsl.geforce.com
+events.gfe.nvidia.com
+download.sonarr.tv
+skyhook.sonarr.tv
+services.sonarr.tv
+prod.telemetry.ros.rockstargames.com
+keystone.mwbsys.com
 
-# --- WEB-FUNKTIONS (Banking & Schriften) ---
+# --- WEB-FUNKTIONEN & DIVERSE ---
+fonts.gstatic.com
+gstatic.com
+assets.adobedtm.com
+pbs.twimg.com
 paypalobjects.com
 stripe.com
 klarna.com
-fonts.gstatic.com
-gstatic.com
+js.braintreegateway.com
+dl.dropbox.com
+res.cloudinary.com
+fiverr.com
+medium.com
+slack-redir.net
+lgappstv.com
 
 
 
